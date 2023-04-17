@@ -44,7 +44,7 @@ namespace FinWebRESTService
         public static string final_Qry = "";
         public static string fullname, c, IP, Co, co_cd, sp_cd, srv, pk_error = "Y";
         public static string home_curr = "", home_div_iden = "", home_divider = "", numbr_fmt = "", numbr_fmt2 = "", branch_cd = "";
-        public static string rm_lot_mode = "";
+        public static string rm_lot_mode = "", test_ss ="";
 
         //rm_lot_mode= 1 :: all reel (sgrp /mega) , 2 :: PRT_RAV ="Y" ( reel + other item ), 3 :: PRT_RAV ="N" ( NO reel + all other item)
 
