@@ -8895,7 +8895,9 @@ namespace FinWebRESTService
                         oporow["ordno"] = xmv_ordno.Substring(0, 6);
                         if (team.col1 == "GDOT")
                         {
-                            oporow["orddt"] = xmv_orddt;
+                            //oporow["orddt"] = xmv_orddt;
+                            //oporow["orddt"] = Convert.ToDateTime(xmv_orddt).ToString("dd/MM/yyyy");
+                            oporow["orddt"] = fn_seek_iname(team.col1, branchcd, "select to_Date('" + xmv_orddt + "','dd/mm/yyyy') as ldt from dual", "ldt");
                         }
                         else
                         {
