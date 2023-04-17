@@ -1,0 +1,40 @@
+C:\My Projects\PayMentRESTService\PayMentRESTService\bin\PayMentRESTService.dll.config
+C:\My Projects\PayMentRESTService\PayMentRESTService\bin\PayMentRESTService.dll
+C:\My Projects\PayMentRESTService\PayMentRESTService\bin\PayMentRESTService.pdb
+C:\My Projects\PayMentRESTService\PayMentRESTService\obj\Debug\PayMentRESTService.csprojResolveAssemblyReference.cache
+C:\My Projects\PayMentRESTService\PayMentRESTService\obj\Debug\PayMentRESTService.dll
+C:\My Projects\PayMentRESTService\PayMentRESTService\obj\Debug\PayMentRESTService.pdb
+C:\Users\vithal\Desktop\Project Bkp\REST Article\PayMentRESTService\PayMentRESTService\bin\PayMentRESTService.dll.config
+C:\Users\vithal\Desktop\Project Bkp\REST Article\PayMentRESTService\PayMentRESTService\bin\PayMentRESTService.dll
+C:\Users\vithal\Desktop\Project Bkp\REST Article\PayMentRESTService\PayMentRESTService\bin\PayMentRESTService.pdb
+C:\Users\vithal\Desktop\Project Bkp\REST Article\PayMentRESTService\PayMentRESTService\obj\Debug\PayMentRESTService.csprojResolveAssemblyReference.cache
+C:\Users\vithal\Desktop\Project Bkp\REST Article\PayMentRESTService\PayMentRESTService\obj\Debug\PayMentRESTService.dll
+C:\Users\vithal\Desktop\Project Bkp\REST Article\PayMentRESTService\PayMentRESTService\obj\Debug\PayMentRESTService.pdb
+C:\FIN_ERP\PayMentRESTService\PayMentRESTService\PayMentRESTService\obj\Debug\PayMentRESTService.csprojResolveAssemblyReference.cache
+C:\FIN_ERP\PayMentRESTService\PayMentRESTService\PayMentRESTService\bin\PayMentRESTService.dll.config
+C:\FIN_ERP\PayMentRESTService\PayMentRESTService\PayMentRESTService\bin\PayMentRESTService.dll
+C:\FIN_ERP\PayMentRESTService\PayMentRESTService\PayMentRESTService\bin\PayMentRESTService.pdb
+C:\FIN_ERP\PayMentRESTService\PayMentRESTService\PayMentRESTService\obj\Debug\PayMentRESTService.dll
+C:\FIN_ERP\PayMentRESTService\PayMentRESTService\PayMentRESTService\obj\Debug\PayMentRESTService.pdb
+C:\FIN_ERP\PayMentRESTService\PayMentRESTService\PayMentRESTService\bin\mytns.txt
+E:\Findev\fin-wservice-json\bin\mytns.txt
+E:\Findev\fin-wservice-json\bin\PayMentRESTService.dll.config
+E:\Findev\fin-wservice-json\bin\PayMentRESTService.dll
+E:\Findev\fin-wservice-json\bin\PayMentRESTService.pdb
+E:\Findev\fin-wservice-json\obj\Debug\PayMentRESTService.csprojResolveAssemblyReference.cache
+E:\Findev\fin-wservice-json\obj\Debug\PayMentRESTService.dll
+E:\Findev\fin-wservice-json\obj\Debug\PayMentRESTService.pdb
+E:\Findev\fin-wservice-json_dotnet_45\bin\mytns.txt
+E:\Findev\fin-wservice-json_dotnet_45\bin\PayMentRESTService.dll.config
+E:\Findev\fin-wservice-json_dotnet_45\bin\PayMentRESTService.dll
+E:\Findev\fin-wservice-json_dotnet_45\bin\PayMentRESTService.pdb
+E:\Findev\fin-wservice-json_dotnet_45\obj\Debug\PayMentRESTService.csprojResolveAssemblyReference.cache
+E:\Findev\fin-wservice-json_dotnet_45\obj\Debug\PayMentRESTService.dll
+E:\Findev\fin-wservice-json_dotnet_45\obj\Debug\PayMentRESTService.pdb
+D:\findev\fin-wservice-json\bin\mytns.txt
+D:\findev\fin-wservice-json\bin\PayMentRESTService.dll.config
+D:\findev\fin-wservice-json\bin\PayMentRESTService.dll
+D:\findev\fin-wservice-json\bin\PayMentRESTService.pdb
+D:\findev\fin-wservice-json\obj\Debug\PayMentRESTService.csprojResolveAssemblyReference.cache
+D:\findev\fin-wservice-json\obj\Debug\PayMentRESTService.dll
+D:\findev\fin-wservice-json\obj\Debug\PayMentRESTService.pdb

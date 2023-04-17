@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword />
+    <_PublishTargetUrl>C:\web_api</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/FinWebRESTService.dll">
+      <publishTime>04/29/2022 16:17:35</publishTime>
+    </File>
+    <File Include="bin/mytns.txt">
+      <publishTime>05/10/2017 01:00:38</publishTime>
+    </File>
+    <File Include="bin/PayMentRESTService.dll">
+      <publishTime>10/16/2017 13:56:37</publishTime>
+    </File>
+    <File Include="FinWebApisv.svc">
+      <publishTime>04/20/2022 15:53:46</publishTime>
+    </File>
+    <File Include="mytns.txt">
+      <publishTime>05/10/2017 01:00:38</publishTime>
+    </File>
+    <File Include="PayMentService.svc">
+      <publishTime>05/10/2017 01:00:38</publishTime>
+    </File>
+    <File Include="PrecompiledApp.config">
+      <publishTime>04/29/2022 16:17:39</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>04/29/2022 11:11:24</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
